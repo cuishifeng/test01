@@ -1,0 +1,21 @@
+{
+	"template"    : "default",
+        "docs"      : {
+                "About": "README.md",
+                "test": "posts/test",
+                "其他": "posts"
+        },        
+        "perpage"   : 10,
+        "types"     : {
+                "\\.(md||markdown)$"   : "markdown", 
+                "\\.(js||css||json)$"  : "code",
+                "\\.html?$"            : "html",
+                ".*"                   : "text"                
+        },
+        "title"  : "Shifone's Blog",
+	"order"  : "number",
+	"description" : "live like fish",
+	"domain_alias" :  ["github.cuishifeng.cn"],
+        "comment"  : "on",
+        "friends"  : [] 
+}
