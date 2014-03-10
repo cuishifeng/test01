@@ -15,7 +15,6 @@
         "title"  : "Shifone's Blog",
 	"order"  : "number",
 	"description" : "live like fish",
-	"domain_alias" :  ["github.cuishifeng.cn"],
         "comment"  : "on",
         "friends"  : [] 
 }
